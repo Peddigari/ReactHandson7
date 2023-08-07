@@ -5,7 +5,7 @@ import Student from "./Student";
 import { Routes, Route } from "react-router-dom";
 import AddNewStudent from "./AddNewStudent";
 import EditStudent from "./EditStudent";
-import Header from "./Header";
+// import Header from "./Header";
 
 const RoutesHandson7 = () => {
   return (
